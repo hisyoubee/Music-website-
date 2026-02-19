@@ -1,3 +1,3 @@
-function notify() {
-  alert("New song dropping soon 🔥");
+function notifyFans() {
+  alert("🔥 New song dropping soon! Stay tuned!");
 }
