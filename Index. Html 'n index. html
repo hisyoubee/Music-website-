@@ -1,15 +1,18 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Youbee Music</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>silent killer</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
-  <h1>Youbee</h1>
-  <p>New music coming soon 🔥</p>
-
-  <button onclick="notify()">Notify Me</button>
+  <div class="container">
+    <h1>Youbee 🔥</h1>
+    <img src="file_0000000076cc724399d6c9dd54828d39.png" alt="Youbee Silent Killer" class="poster">
+    <p>New single coming soon!</p>
+    <button onclick="notifyFans()">Notify Me</button>
+  </div>
 
   <script src="script.js"></script>
 </body>
