@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>silent killer</title>
+  <title>Youbee music</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div class="container">
-    <h1>Youbee 🔥</h1>
+    <h1>silent killer 🔥</h1>
     <img src="file_0000000076cc724399d6c9dd54828d39.png" alt="Youbee Silent Killer" class="poster">
     <p>New single coming soon!</p>
     <button onclick="notifyFans()">Notify Me</button>
